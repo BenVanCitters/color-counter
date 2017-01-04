@@ -1,2 +1,2 @@
 # color-counter
-counts the number of colors in an image and displays the results
+Prcessing sketch to count the number of colors in an image, draw those colors and displays a histogram and the color count
